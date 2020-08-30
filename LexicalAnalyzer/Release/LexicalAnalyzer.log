@@ -1,0 +1,40 @@
+﻿  lexical_analyzer_final.c
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(120): warning C4013: 'compare_lexeme' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(140): warning C4013: 'compare_string' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(145): warning C4013: 'compare_keyword' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(148): warning C4013: 'compare_variable_type' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(151): warning C4013: 'compare_whitespace' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(154): warning C4013: 'compare_arithmetic_operators' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(157): warning C4013: 'compare_assignment_operator' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(160): warning C4013: 'compare_comparison_operators' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(163): warning C4013: 'compare_lbrace' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(166): warning C4013: 'compare_rbrace' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(169): warning C4013: 'compare_lparent' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(172): warning C4013: 'compare_rparent' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(175): warning C4013: 'compare_terminator' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(178): warning C4013: 'compare_separator' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(181): warning C4013: 'compare_integer' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(184): warning C4013: 'compare_id' non défini(e) ; extern retournant int pris par défaut
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(190): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(233): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(253): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'char [2]' sont différents
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(264): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(288): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(311): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(329): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(349): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(368): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(388): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(408): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(428): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(449): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(472): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(495): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(518): warning C4101: 'i' : variable locale non référencée
+c:\users\gio-o\source\repos\lexicalanalyzer\lexicalanalyzer\lexical_analyzer_final.c(539): warning C4101: 'i' : variable locale non référencée
+  Génération de code en cours
+  0 of 21 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  LexicalAnalyzer.vcxproj -> C:\Users\Gio-o\source\repos\LexicalAnalyzer\Release\LexicalAnalyzer.exe

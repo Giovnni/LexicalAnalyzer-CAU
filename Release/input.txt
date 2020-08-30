@@ -1,0 +1,21 @@
+int main ( )
+{
+int A ;
+int B = 1 ;
+int C = 2 ;
+A = B + C ;
+char three = "3" ;
+if ( A == 3 )
+{
+printf ( "A is equal to %d" , A ) ;
+}
+else if ( A < 3 )
+{
+printf ( "A is less than %c" , three ) ;
+}
+else if ( A > 3 )
+{
+printf( "A is superior than %c" , three ) ;
+}
+return 0 ;
+}
